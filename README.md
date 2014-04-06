@@ -1,7 +1,8 @@
 USE:
-	The project name says it all.
 ===
+	The project name says it all.
 FILES:
+===
 compile.php
 	Invoke link.sh to compile
 srcc.c
